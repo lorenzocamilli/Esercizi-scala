@@ -1,2 +1,3 @@
-# esercizi-scala
-Una serie di esercizi in linguaggio Scala
+# Esercizi-scala
+Vari esericzi con soluzione svolti durante il corso di Programmazione Funzionale e Parallela.
+
